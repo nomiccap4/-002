@@ -3196,12 +3196,12 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <Address>Москва</Address>
     <Category>Запчасти и аксессуары</Category>
-    <Description><![CDATA[Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail!]]></Description>
+    <Description><![CDATA[ Цена за 1 диск 7.5x17/5x112ET35 70.1 Вас приветствует магазин ExpressDetail! Добро пожаловать в наш Avito-магазин E-DET. Если у вас возникли вопросы, пожалуйста, задавайте их в личных сообщениях. Наш менеджер с удовольствием ответит на все ваши вопросы. С уважением, команда ExpressDetail!]]></Description>
     <Price>10000</Price>
     <Images>
         <Image url="https://disk.yandex.ru/i/_t2KhnHr396vfg"/>
     </Images>
-    <Title>AEZ Диски 4шт Straight dark 7.5x17/5x112ET35 70.1</Title>
+    <Title>AEZ Диски Straight dark </Title>
     <Delivery>
         <AvitoDelivery>true</AvitoDelivery>
         <Pickup>true</Pickup>
@@ -4634,6 +4634,7 @@
 </CompatibleCars>
 </Ad>
 </Ads>
+
 
 
 
