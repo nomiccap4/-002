@@ -3210,9 +3210,8 @@
     <GoodsType>Запчасти</GoodsType>
     <AdType>Товар приобретен на продажу</AdType>
     <ProductType>Для автомобилей</ProductType>
-    <SparePartType>Тормозная система</SparePartType>
+    <SparePartType>Шины, диски и колёса</SparePartType>
     <Condition>Новое</Condition>
-    <Originality>Оригинал</Originality>
     <Availability>В наличии</Availability>
     <Brand>AEZ</Brand>
     <OEM>AST78GA35</OEM>
@@ -4634,6 +4633,7 @@
 </CompatibleCars>
 </Ad>
 </Ads>
+
 
 
 
